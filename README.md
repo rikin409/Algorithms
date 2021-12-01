@@ -1,5 +1,5 @@
-# Algorithms_Practice
+# Algorithms
 
 ---
 
-Algorithms
+Common Algorithms
